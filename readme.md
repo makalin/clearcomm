@@ -63,7 +63,7 @@ brew install \
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/clearcomm
+git clone https://github.com/makalin/clearcomm
 cd clearcomm
 ```
 
